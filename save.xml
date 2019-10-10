@@ -1,0 +1,16 @@
+<object-stream>
+  <assignment.TableList>
+    <counter>0</counter>
+  </assignment.TableList>
+  <assignment.BookingList>
+    <counter>0</counter>
+  </assignment.BookingList>
+  <assignment.ItemList>
+    <counter>1</counter>
+    <head>
+      <itemName>cola</itemName>
+      <numberItems>5</numberItems>
+      <price>2.0</price>
+    </head>
+  </assignment.ItemList>
+</object-stream>
